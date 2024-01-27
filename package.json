@@ -1,0 +1,29 @@
+{
+  "name": "episode-03-laying-down-foundation",
+  "version": "1.0.0",
+  "description": "laying down foundation",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshi-durgesh/Episode-03-Laying-down-foundation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshi-durgesh/Episode-03-Laying-down-foundation/issues"
+  },
+  "homepage": "https://github.com/joshi-durgesh/Episode-03-Laying-down-foundation#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 version"
+  ]
+}
